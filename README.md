@@ -1,4 +1,28 @@
-Hey! I’m Marina, a Software Engineer and Digital Marketing Specialist based in Greece with a passion for technology. ✨ I hold a Bachelor's degree in Computer Science from [AUEB](https://www.aueb.gr/en).
+# 👋 Hi, I’m Marina Ntogka
+
+💻 **Software Developer** with a strong focus on backend and cloud technologies using **.NET**, **EF Core**, and **Azure**.  
+🌱 Experienced also in **web development** and **digital marketing**, combining technical and creative skills to deliver complete digital solutions.  
+✨ Open to opportunities across software development, cloud engineering, and tech-driven marketing roles.
+
+---
+
+### ⚙️ Tech Stack
+**C#**, **.NET 9**, **EF Core**, **Web API**, **Azure**, **Docker**, **Git**, **SQL**, **Java**, **Python**, **WordPress**, **SEO**
+
+---
+
+### 🎓 Education
+**B.Sc. in Computer Science** — [Athens University of Economics and Business](https://www.aueb.gr/en)
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/marinantogka)
+
+
+
+
+
+<!--Hey! I’m Marina, a Software Engineer and Digital Marketing Specialist based in Greece with a passion for technology. ✨ I hold a Bachelor's degree in Computer Science from [AUEB](https://www.aueb.gr/en).
 
 Currently:
 - 👩‍💻 Software Developer at [PEOPLE Technology](https://people-t.com/supply-chain) – Thrilled to contribute to cutting-edge supply chain solutions.
