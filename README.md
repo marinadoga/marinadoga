@@ -1,15 +1,28 @@
 # 👋 Hi, I’m Marina Ntogka
 
-💻 **Software Developer** with a strong focus on backend and cloud technologies using **.NET**, **EF Core**, and **Azure**.  
-🌱 Experienced also in **web development** and **digital marketing**, combining technical and creative skills to deliver complete digital solutions.  
-✨ Open to opportunities across software development, cloud engineering, and tech-driven marketing roles.
+💻 I’m a tech professional with experience in software development, cloud tools, and web technologies.  
+🔍 I enjoy working on all kinds of technical roles — from building applications to testing, problem-solving, and improving workflows.  
+🚀 Always curious, always learning, and always looking for new ways to make things work better.
+
 
 ---
 
-### ⚙️ Tech Stack
-**C#**, **.NET 9**, **EF Core**, **Web API**, **Azure**, **Docker**, **Git**, **SQL**, **Java**, **Python**, **WordPress**, **SEO**
+### ⚙️ Favorite Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/efcore/efcore-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" title="SEO" />
+</p>
 
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" /> </p>
 
 ---
 
@@ -18,14 +31,17 @@
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/marinantogka)
 
-
+### ✨ Contact
+<p> 
+  <a href="https://linkedin.com/in/marinantogka"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45" /></a>
+  <a href="mailto:marinadoga98@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" /></a> 
+</p>
 
 
 
 <!--Hey! I’m Marina, a Software Engineer and Digital Marketing Specialist based in Greece with a passion for technology. ✨ I hold a Bachelor's degree in Computer Science from [AUEB](https://www.aueb.gr/en).
-
+📫 [LinkedIn](https://linkedin.com/in/marinantogka)
 Currently:
 - 👩‍💻 Software Developer at [PEOPLE Technology](https://people-t.com/supply-chain) – Thrilled to contribute to cutting-edge supply chain solutions.
 - 💻 Digital Marketing Specialist, specializing in WordPress, SEO, and Social Media Management.
@@ -33,7 +49,11 @@ Currently:
 [Linkedin](https://www.linkedin.com/in/marina-ntogka/)
 <!--
 **ntogka/ntogka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Marina Ntogka
 
+💻 **Software Developer** with a strong focus on backend and cloud technologies using **.NET**, **EF Core**, and **Azure**.  
+🌱 Experienced also in **web development** and **digital marketing**, combining technical and creative skills to deliver complete digital solutions.  
+✨ Open to opportunities across software development, cloud engineering, and tech-driven marketing roles.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
