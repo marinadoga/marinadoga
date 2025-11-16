@@ -7,21 +7,65 @@
 
 ---
 
-### ⚙️ Favorite Tools
+### ⚙️ Tech Stack & Tools I Use
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/efcore/efcore-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" title="SEO" />
+  <a href="https://learn.microsoft.com/dotnet/csharp/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" />
+  </a>
+
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/ef/core/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg" width="45" title="EF Core" />
+  </a>
+
+  <a href="https://www.postman.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" />
+  </a>
+
+  <a href="https://azure.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" />
+  </a>
+
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" />
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  </a>
+
+  <a href="https://www.oracle.com/database/sqldeveloper/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="45" />
+  </a>
+
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+  </a>
+
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  </a>
+
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  </a>
+
+  <a href="https://wordpress.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" />
+  </a>
+
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="45"/>
+  </a>
+
+  <a href="https://www.canva.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="45" title="Canva" />
+  </a>
 </p>
+
 
 
 ---
