@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Marina Ntogka
 
 💻 Software Engineer currently working at [European Dynamics](https://www.eurodyn.com/), with experience in software development, cloud tools, and web technologies.
+
 🔍 I enjoy working on all kinds of technical roles — from building applications to testing, problem-solving, and improving workflows.  
 🚀 Always curious, always learning, and always looking for new ways to make things work better.
 
