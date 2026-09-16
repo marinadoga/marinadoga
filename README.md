@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Marina Doga
 
-💻 Backend Software Engineer with 4+ years building .NET APIs, enterprise SharePoint solutions, and automation tooling.  
-🔍 Currently at [European Dynamics](https://www.eurodyn.com/), working on SharePoint Online administration, PowerShell automation, Power Automate workflows, and SPFx solutions for large-scale M365 deployments.  
-🚀 Previously at [PEOPLE Technology](https://people-t.com/), building real-time IoT logistics APIs in .NET 9 with EF Core and Azure.
+💻 **Backend Software Engineer** with 3+ years of experience building scalable .NET APIs, enterprise automation pipelines, and cloud solutions.  
+🚀 Built real-time IoT logistics REST APIs in **.NET 9** with **EF Core** and **Azure** at [PEOPLE Technology](https://people-t.com/).  
+⚙️ Engineered large-scale **PowerShell** automations, **Power Automate** workflows, and **SPFx** solutions for enterprise M365 environments at [European Dynamics](https://www.eurodyn.com/).
 
 ---
 
