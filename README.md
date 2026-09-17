@@ -44,5 +44,5 @@
 ### 📫 Contact
 
 <a href="https://linkedin.com/in/marinadoga"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45" /></a> &nbsp;
-<a href="mailto:marinadoga98@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" /></a> &nbsp;
+<a href="mailto:info@marinadoga.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" /></a> &nbsp;
 <a href="https://marinadoga.com"><img src="https://img.shields.io/badge/marinadoga.com-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" /></a>
